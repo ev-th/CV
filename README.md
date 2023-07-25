@@ -1,90 +1,92 @@
-## Evan Thomas
+# Evan Thomas
 
-I’m a language-agnostic software developer that’s fascinated by how people use and make things. Previously as a Product Manager at a fashion company, I came to appreciate tech’s role in how customers interacted with us and used our products. To engage more deeply with this, I taught myself some programming and discovered the power of software to solve many of our problems. Now a graduate of Makers Academy, I continue to enjoy building tools to make people’s lives easier and better, whether that’s by simply shaving a few seconds from a boring task, or empowering them to change the way they move through the world.
+## Profile
+
+I’m a language-agnostic software developer that’s fascinated by how people make things and use them to move through the world, interact with others and improve their lives. Previously as a Product Development Manager at a fashion company, I came to appreciate tech’s role in how customers interacted with us and used our products. Digging deeper, I taught myself some programming and discovered the power of software to solve many of our problems. Now a graduate of Makers Academy, I continue to enjoy using tech to build tools to make people’s lives easier.
+
+## Software Development Experience
+
+### Makers Academy - (April - July 2023)
+
+- Followed **Agile best practices** to build software as part of **teams of 5 - 7 devs**. By far the most rewarding part of the bootcamp, this brought home the importance of **effective communication, strong ticket creation, effective use of Git and Github, and thorough testing**.
+- Practiced daily **pair programming**, which was instrumental in learning how to articulate new concepts and uncover knowledge gaps.
+- Built **full stack web apps**, both from scratch, and extended from legacy code. 
+- Built a **mobile app** using React Native that uses multiple third party APIs.
+- Designed both **SQL and NoSQL databases** using PostgreSQL and MongoDB. Discovered the pros and cons of both the hard way.
+- **Switched quickly between various languages and frameworks**, such as Ruby, Javascript, HTML, CSS, React, Express, and Sinatra, **independently learning** them as and when needed. Learned when to quickly pivot when the wrong choice of tech has been made.
+- Used **test-driven development** (TDD) throughout with various testing frameworks, such as Jest, Rspec and Cypress.
+- Built a strong foudation of **object-oriented design** and developed a good technique for **refactoring** by ensuring code is tested before making changes (can you tell I'm a fan of testing?).
+- Improved my **debugging** abilities using irb, the console, and VSCode's interactive debugger. Things will always break, but now I can fix them quickly!
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Flock**            | - Mobile app to help people decide which activities to do together, developed in an agile team using sprints. | React, Jest, etc. |
-| |     - Generates activities based on input location using two APIs. | |
-| |   - Creates activity matches with friends using a swipe feature inspired by Tinder. | |
-| |  - No user sign up by using linking with Expo and local storage | |
- 
-| **Acebook** | A webapp to do y. | Ruby              |
+### **Flock**
 
-## Work Experience
+`MongoDB | Express | React Native | NodeJS | Jest | React Testing Library`
 
-**SUKREW** (09/2016 to 10/2022)  
-_Product Development Manager_
+- **Mobile app** to help people decide which activities to do together, developed in an agile team using sprints.
+- Generates activities based on input location using SerpApi and OpenAI.
+- Creates activity matches with friends using a swipe feature inspired by Tinder.
+- No user sign up by using linking with Expo and local storage.
 
-- Managed the complete lifecycle of the product (underwear): design, development, fittings, orders,
-  shipment, quality control, stock management, product launch and sales analysis. Improved product quality and reduced costs by transitioning to specialised factories and maintained relationships with production teams in China and India.
-- Designed the development process and solidified best practices. Implemented a system for good record keeping. Formalised documentation.
-- Maintained the website by updating the home page, products, SEO, and managing orders. Migrated the website from Magento to Shopify which needs less technical knowledge, saving the company from expensive web development costs.
-- Built software to automate wholesale order processing and store relevant information. Using the Shopify REST API, it could also retrieve and store web sale order information. This brought together data from two sales channels that were previously separated, to provide more useful sales reporting. It also saved time by reducing manual stock management and invoice generation.
+### **Acebook**
 
-**Scribbler** (2013-2015)
-_Sales Assistant_
+`MongoDB | Express | React | NodeJS | Jest | Cypress`
 
-- Worked as part of a small team on the shop floor and in the stockroom.
-- Communicated with the public, worked on the tills, opened/closed the shop.
-- Covered shifts in multiple branches, which adapted me to new teams and ways of working.
+- **Social Media web app** based on Facebook, developed in an agile team using sprints.
+- We inherited a simple codebase and learned the necessary technologies to fix bugs and extend functionality.
+- Features include authenticating user login using JWT, likes and comments, remote image storage with Cloudinary.
 
-**Knoll Care Partnership** (2008-2012)
-Care Assistant\_
+### **Merge Masters BnB**
 
-- Cared for residents in an elderly residential home, most of which had dementia.
-- Distributed medication, gave personal care, prepared food, organised activities.
-- Teamwork was crucial for coordinating daily tasks and adapting to unexpected events. Flexibility in
-  approach was necessary for each resident’s specific needs.
-- Inter-team verbal and written communication was key for an effective handover between day and
-  night shifts, weekday and weekend teams.
+`Ruby | PostgreSQL | Sinatra | HTML | CSS | Bcrypt | RSpec`
 
-## TODO - Skills
+- **E-commerce site** based on AirBnB, developed in an agile team using sprints.
+- Users can sign up, share room listings, request bookings on other users’ listings by date, and confirm listings.
+- Passwords encrypted with bcrypt.
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+### **Inventory Management System**
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had.
+`Python | SQLite | Pytest | Shopify Rest API`
 
-Here's an example
+- **Shopify app** developed for SUKREW Ltd while working as the Product Development Manager.
+- Integrates websale and wholesale for better reporting.
+- Speeds up wholesale processing by generating invoices and updating Shopify.
+- New product data input is done once with CSV import, added to Shopify and formatted for other sales channels and shipping partners.
 
-#### Communication
+## Professional Experience
 
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+### Product Development Manager @ SUKREW Ltd (2016 - 2022)
 
-#### Another skill
+- **Managed the complete lifecycle of the product** (underwear): design, development, fittings, orders, shipment, quality control, stock management, product launch and sales analysis. **Improved product quality** and **reduced costs** by transitioning to specialised factories and maintained relationships with production teams in China and India.
+- **Designed the development process** and solidified best practices. Implemented a system for good record keeping. **Formalised documentation**.
+- **Maintained the website** by updating the home page, products, SEO, and managing orders. Migrated the website from Magento to Shopify which needs less technical knowledge, **saving the company from expensive web development costs**.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+### Sales Assistant @ Scribbler (2013 - 2015)
 
-#### Another skill
+- **Worked as part of a small team** on the shop floor and in the stockroom.
+- **Communicated with the public**, worked on the tills, opened/closed the shop.
+
+### Care Assistant @ Knoll Care Partnership (2008 - 2012)
+
+- **Cared for residents** in an elderly residential home, most of which had dementia.
+- **Distributed medication**, gave personal care, prepared food, organised activities.
+- **Teamwork** was crucial for coordinating daily tasks and adapting to unexpected events. **Flexibility in approach** was necessary for each resident’s specific needs.
+- **Inter-team verbal and written communication** was key for an effective handover between day and night shifts, weekday and weekend teams.
 
 ## Education
 
-#### TODO - Makers Academy (start_date to end_date)
-
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below:
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Queen Mary, University of London (2012 - 2016)
+### Queen Mary, University of London (2012 - 2016)
 
 - MA Film Studies (Distinction)
 - BA Film Studies (First Class)
 
-#### Manchester Grammar School
+### Manchester Grammar School
 
 - A Levels – Biology (A*), Chemistry (A), Maths (A*) – 2009-2010
 - AS Level – Physics (A) – 2009
 - GCSEs – 10 A-A\* including Maths and English
 
-## TODO - Hobbies
+## Hobbies
 
-Film nerd (love some old Hollywood glamour), fashion nerd (I make clothes and wear fun things), vegetarian cooking (my Ottolenghi books are barely holding themselves together), mindfulness (if sitting down and doing nothing counts as a hobby).
+Film nerd (love some old Hollywood glamour), fashion nerd (I make clothes and will absolutely dress up to the office), veggie cooking (my Ottolenghi books are barely holding themselves together), mindfulness (if sitting down and doing nothing counts as a hobby).
