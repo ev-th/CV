@@ -9,14 +9,12 @@ I’m a language-agnostic software developer that’s fascinated by how people m
 ### Makers Academy - (April - July 2023)
 
 - Followed **Agile best practices** to build software as part of **teams of 5 - 7 devs**. By far the most rewarding part of the bootcamp, this brought home the importance of **effective communication, strong ticket creation, effective use of Git and Github, and thorough testing**.
-- Practiced daily **pair programming**, which was instrumental in learning how to articulate new concepts and uncover knowledge gaps.
 - Built **full stack web apps**, both from scratch, and extended from legacy code. 
 - Built a **mobile app** using React Native that uses multiple third party APIs.
 - Designed both **SQL and NoSQL databases** using PostgreSQL and MongoDB. Discovered the pros and cons of both the hard way.
 - **Switched quickly between various languages and frameworks**, such as Ruby, Javascript, HTML, CSS, React, Express, and Sinatra, **independently learning** them as and when needed. Learned when to quickly pivot when the wrong choice of tech has been made.
 - Used **test-driven development** (TDD) throughout with various testing frameworks, such as Jest, Rspec and Cypress.
 - Built a strong foudation of **object-oriented design** and developed a good technique for **refactoring** by ensuring code is tested before making changes (can you tell I'm a fan of testing?).
-- Improved my **debugging** abilities using irb, the console, and VSCode's interactive debugger. Things will always break, but now I can fix them quickly!
 
 ## Projects
 
@@ -58,34 +56,24 @@ I’m a language-agnostic software developer that’s fascinated by how people m
 
 ### Product Development Manager @ SUKREW Ltd (2016 - 2022)
 
-- **Managed the complete lifecycle of the product** (underwear): design, development, fittings, orders, shipment, quality control, stock management, product launch and sales analysis. **Improved product quality** and **reduced costs** by transitioning to specialised factories and maintained relationships with production teams in China and India.
-- **Designed the development process** and solidified best practices. Implemented a system for good record keeping. **Formalised documentation**.
+- **Managed the complete lifecycle of the product** (underwear): design, development, fittings, orders, shipment, quality control, stock management, product launch and sales analysis.
+- **Improved product quality** and **reduced costs** by transitioning to specialised factories and maintained relationships with international production teams.
 - **Maintained the website** by updating the home page, products, SEO, and managing orders. Migrated the website from Magento to Shopify which needs less technical knowledge, **saving the company from expensive web development costs**.
 
 ### Sales Assistant @ Scribbler (2013 - 2015)
 
-- **Worked as part of a small team** on the shop floor and in the stockroom.
-- **Communicated with the public**, worked on the tills, opened/closed the shop.
+- **Worked as part of a team**, using sales reports to merchandise the store and consistently meet targets.
+- **Communicated with the public**, helping customers navigate the store with an in depth knowledge of the product.
 
 ### Care Assistant @ Knoll Care Partnership (2008 - 2012)
 
-- **Cared for residents** in an elderly residential home, most of which had dementia.
-- **Distributed medication**, gave personal care, prepared food, organised activities.
-- **Teamwork** was crucial for coordinating daily tasks and adapting to unexpected events. **Flexibility in approach** was necessary for each resident’s specific needs.
-- **Inter-team verbal and written communication** was key for an effective handover between day and night shifts, weekday and weekend teams.
+- **Cared for residents** in an elderly residential home, most of which had dementia. **Flexibility in approach** was necessary for each resident’s specific needs.
+- Daily challenges were unpredictable, so **teamwork and communication** were vital. **Inter-team verbal and written communication** was key for an effective handover between day and night shifts, weekday and weekend teams.
+- Distributed medication, gave personal care, prepared food, organised activities.
 
 ## Education
 
-### Queen Mary, University of London (2012 - 2016)
-
-- MA Film Studies (Distinction)
-- BA Film Studies (First Class)
-
-### Manchester Grammar School
-
-- A Levels – Biology (A*), Chemistry (A), Maths (A*) – 2009-2010
-- AS Level – Physics (A) – 2009
-- GCSEs – 10 A-A\* including Maths and English
+**Queen Mary, University of London**&nbsp; _BA Film Studies_ (First Class)&nbsp; _MA Film Studies_ (Distinction)
 
 ## Hobbies
 
