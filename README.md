@@ -1,16 +1,17 @@
 ## Evan Thomas
 
-(A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.)
-
-From written CV...
-Through work in small companies, I’ve come to value a big picture view, how all the moving parts work together to create a product or service. In my last position I wore many hats, effectively prioritised and taught myself the skills needed at the right times. I found that code could help automate tasks and solve complex problems, so taught myself enough Python and SQL to build software that integrated our various sales channels, allowing for more meaningful reporting. Building tools like this has been incredibly rewarding, spurring me on to change career and pursue software development.
+I’m a language-agnostic software developer that’s fascinated by how people use and make things. Previously as a Product Manager at a fashion company, I came to appreciate tech’s role in how customers interacted with us and used our products. To engage more deeply with this, I taught myself some programming and discovered the power of software to solve many of our problems. Now a graduate of Makers Academy, I continue to enjoy building tools to make people’s lives easier and better, whether that’s by simply shaving a few seconds from a boring task, or empowering them to change the way they move through the world.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Flock**            | - Mobile app to help people decide which activities to do together, developed in an agile team using sprints. | React, Jest, etc. |
+| |     - Generates activities based on input location using two APIs. | |
+| |   - Creates activity matches with friends using a swipe feature inspired by Tinder. | |
+| |  - No user sign up by using linking with Expo and local storage | |
+ 
+| **Acebook** | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
