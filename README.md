@@ -20,7 +20,7 @@ I’m a language-agnostic software developer that’s fascinated by how people m
 
 ## Projects
 
-### **Flock**
+### [**Flock**](https://github.com/ev-th/Flock)
 
 `MongoDB | Express | React Native | NodeJS | Jest | React Testing Library`
 
@@ -29,7 +29,7 @@ I’m a language-agnostic software developer that’s fascinated by how people m
 - Creates activity matches with friends using a swipe feature inspired by Tinder.
 - No user sign up by using linking with Expo and local storage.
 
-### **Acebook**
+### [**Acebook**](https://github.com/ev-th/acebook-fire)
 
 `MongoDB | Express | React | NodeJS | Jest | Cypress`
 
@@ -37,7 +37,7 @@ I’m a language-agnostic software developer that’s fascinated by how people m
 - We inherited a simple codebase and learned the necessary technologies to fix bugs and extend functionality.
 - Features include authenticating user login using JWT, likes and comments, remote image storage with Cloudinary.
 
-### **Merge Masters BnB**
+### [**Merge Masters BnB**](https://github.com/CKMurison/makersbnb-ruby-seed)
 
 `Ruby | PostgreSQL | Sinatra | HTML | CSS | Bcrypt | RSpec`
 
