@@ -2,7 +2,7 @@
 
 ## Profile
 
-I’m a language-agnostic software developer that’s fascinated by how people make things and use them to move through the world, interact with others and improve their lives. Previously as a Product Development Manager at a fashion company, I came to appreciate tech’s role in how customers interacted with us and used our products. Digging deeper, I taught myself some programming and discovered the power of software to solve many of our problems. Now a graduate of Makers Academy, I continue to enjoy using tech to build tools to make people’s lives easier.
+I’m a language-agnostic software developer recently trained at Makers Academy. My previous experience as a Product Development Manager in the fashion industry has given me a strong user-focus, and understanding of the complexities of developing product in a team. In recent years, a passion for tech has grown out of an appreciation for its vital role in all industries, and I'm refocusing my love for making things into developing software that's a joy for people to use.
 
 ## Software Development Experience
 
