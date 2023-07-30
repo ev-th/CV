@@ -1,10 +1,10 @@
 # Evan Thomas
 
-<p class="contacts">`London | evanthomas0292@gmail.com | github...`</p>
+<p class="contacts">`London | evanthomas0292@gmail.com | 07763748316 | github.com/ev-th | linkedin.com/in/ev-th`</p>
 
-> I’m a language-agnostic software developer recently trained at Makers Academy. My previous experience as a Product Development Manager in the fashion industry has given me a strong user-focus, and understanding of the complexities of developing product in a team. In recent years, a passion for tech has grown out of an appreciation for its vital role in all industries, and I'm refocusing my love for making things into developing software that's a joy for people to use. 
+> Language-agnostic software developer recently trained at Makers. My previous experience as a Product Development Manager in the fashion industry has given me a strong user-focus and understanding of the product lifecycle. I'd love to be part of a diverse team working on software that's a joy to use.
 
-## Software Development Experience
+## Engineering Experience
 
 #### _April-July 2023_
 
@@ -13,10 +13,10 @@
 - Followed **Agile best practices** to build software as part of **teams of 5 - 7 devs**, strengthening skills of **effective communication, strong ticket creation, good use of Git and Github, and thorough testing**.
 - Built **full stack web apps**, both from scratch, and extended from legacy code. 
 - Built a **mobile app** using React Native that uses multiple third party APIs.
-- Designed both **SQL and NoSQL databases** using PostgreSQL and MongoDB. Discovered the pros and cons of both the hard way.
-- **Switched quickly between various languages and frameworks**, such as Ruby, Javascript, HTML, CSS, React, Express, and Sinatra, **independently learning** them as and when needed. Learned when to quickly pivot when the wrong choice of tech has been made.
+- Designed and used both **SQL and NoSQL databases** using PostgreSQL and MongoDB.
+- **Switched quickly between various languages and frameworks**, learning them as and when needed.
 - Used **test-driven development** (TDD) throughout with various testing frameworks, such as Jest, Rspec and Cypress.
-- Built a strong foudation of **object-oriented design** and developed a good technique for **refactoring** by ensuring code is tested before making changes (can you tell I'm a fan of testing?).
+- Built a strong foundation of **object-oriented design** using Ruby and Javascript in several solo challenges.
 
 ## Projects
 
@@ -25,8 +25,8 @@
 <p class="tech">`MongoDB | Express | React Native | NodeJS | Jest | React Testing Library`</p>
 
 - **Mobile app** to help people decide which activities to do together, developed in an agile team of 5 devs.
-- Generates activities based on input location using SerpApi and OpenAI.
-- Creates activity matches with friends using a swipe feature inspired by Tinder.
+- Generates activities based on input location using Google and OpenAI.
+- Asynchronously, users select preferred activities using a swipe feature. Once all users have made selections, they can see their matching activities.
 - No user sign up by using linking with Expo and local storage.
 
 ### [**Acebook**](https://github.com/ev-th/acebook-fire)
@@ -50,9 +50,8 @@
 <p class="tech">`Python | SQLite | Pytest | Shopify Rest API`</p>
 
 - **Shopify app** developed for SUKREW Ltd while working as the Product Development Manager.
-- Integrates websale and wholesale for better reporting.
-- Speeds up wholesale processing by generating invoices and updating Shopify.
-- New product data input is done once with CSV import, added to Shopify and formatted for other sales channels and shipping partners.
+- Automates much of the wholesale side of the business, integrating it into the websale system.
+- Significantly reduces manual data entry and provides valuable sales reporting across sales channels.
 
 ## Professional Experience
 
@@ -68,16 +67,15 @@
 
 ### Sales Assistant @ Scribbler
 
-- **Worked as part of a team**, using sales reports to merchandise the store and consistently meet targets.
-- **Communicated with the public**, helping customers navigate the store with an in depth knowledge of the product.
+- Worked as part of a team, using sales reports to merchandise the store and consistently meet targets.
+- Communicated with the public, helping customers navigate the store with an in depth knowledge of the product.
 
 #### _2008-2012_
 
 ### Care Assistant @ Knoll Care Partnership
 
-- **Cared for residents** in an elderly residential home, most of which had dementia. **Flexibility in approach** was necessary for each resident’s specific needs.
-- Daily challenges were unpredictable, so **teamwork and communication** were vital. **Inter-team verbal and written communication** was key for an effective handover between day and night shifts, weekday and weekend teams.
-- Distributed medication, gave personal care, prepared food, organised activities.
+- Cared for residents in an elderly residential home, all with very different needs.
+- Daily challenges were unpredictable. Adaptability, teamwork, and communication were vital.
 
 ## Education
 
