@@ -1,14 +1,16 @@
 # Evan Thomas
 
-## Profile
+<p class="contacts">`London | evanthomas0292@gmail.com | github...`</p>
 
-I’m a language-agnostic software developer recently trained at Makers Academy. My previous experience as a Product Development Manager in the fashion industry has given me a strong user-focus, and understanding of the complexities of developing product in a team. In recent years, a passion for tech has grown out of an appreciation for its vital role in all industries, and I'm refocusing my love for making things into developing software that's a joy for people to use.
+> I’m a language-agnostic software developer recently trained at Makers Academy. My previous experience as a Product Development Manager in the fashion industry has given me a strong user-focus, and understanding of the complexities of developing product in a team. In recent years, a passion for tech has grown out of an appreciation for its vital role in all industries, and I'm refocusing my love for making things into developing software that's a joy for people to use. 
 
 ## Software Development Experience
 
-### Makers Academy - (April - July 2023)
+#### _April-July 2023_
 
-- Followed **Agile best practices** to build software as part of **teams of 5 - 7 devs**. By far the most rewarding part of the bootcamp, this brought home the importance of **effective communication, strong ticket creation, effective use of Git and Github, and thorough testing**.
+### Makers Academy
+
+- Followed **Agile best practices** to build software as part of **teams of 5 - 7 devs**, strengthening skills of **effective communication, strong ticket creation, good use of Git and Github, and thorough testing**.
 - Built **full stack web apps**, both from scratch, and extended from legacy code. 
 - Built a **mobile app** using React Native that uses multiple third party APIs.
 - Designed both **SQL and NoSQL databases** using PostgreSQL and MongoDB. Discovered the pros and cons of both the hard way.
@@ -20,32 +22,32 @@ I’m a language-agnostic software developer recently trained at Makers Academy.
 
 ### [**Flock**](https://github.com/ev-th/Flock)
 
-`MongoDB | Express | React Native | NodeJS | Jest | React Testing Library`
+<p class="tech">`MongoDB | Express | React Native | NodeJS | Jest | React Testing Library`</p>
 
-- **Mobile app** to help people decide which activities to do together, developed in an agile team using sprints.
+- **Mobile app** to help people decide which activities to do together, developed in an agile team of 5 devs.
 - Generates activities based on input location using SerpApi and OpenAI.
 - Creates activity matches with friends using a swipe feature inspired by Tinder.
 - No user sign up by using linking with Expo and local storage.
 
 ### [**Acebook**](https://github.com/ev-th/acebook-fire)
 
-`MongoDB | Express | React | NodeJS | Jest | Cypress`
+<p class="tech">`MongoDB | Express | React | NodeJS | Jest | Cypress`</p>
 
-- **Social Media web app** based on Facebook, developed in an agile team using sprints.
+- **Social Media web app** based on Facebook, developed in an agile team of 7 devs.
 - We inherited a simple codebase and learned the necessary technologies to fix bugs and extend functionality.
 - Features include authenticating user login using JWT, likes and comments, remote image storage with Cloudinary.
 
 ### [**Merge Masters BnB**](https://github.com/CKMurison/makersbnb-ruby-seed)
 
-`Ruby | PostgreSQL | Sinatra | HTML | CSS | Bcrypt | RSpec`
+<p class="tech">`Ruby | PostgreSQL | Sinatra | HTML | CSS | Bcrypt | RSpec`</p>
 
-- **E-commerce site** based on AirBnB, developed in an agile team using sprints.
+- **E-commerce site** based on AirBnB, developed in an agile team of 6 devs.
 - Users can sign up, share room listings, request bookings on other users’ listings by date, and confirm listings.
 - Passwords encrypted with bcrypt.
 
 ### **Inventory Management System**
 
-`Python | SQLite | Pytest | Shopify Rest API`
+<p class="tech">`Python | SQLite | Pytest | Shopify Rest API`</p>
 
 - **Shopify app** developed for SUKREW Ltd while working as the Product Development Manager.
 - Integrates websale and wholesale for better reporting.
@@ -54,18 +56,24 @@ I’m a language-agnostic software developer recently trained at Makers Academy.
 
 ## Professional Experience
 
-### Product Development Manager @ SUKREW Ltd (2016 - 2022)
+#### _2016-2022_
+
+### Product Development Manager @ SUKREW Ltd
 
 - **Managed the complete lifecycle of the product** (underwear): design, development, fittings, orders, shipment, quality control, stock management, product launch and sales analysis.
 - **Improved product quality** and **reduced costs** by transitioning to specialised factories and maintained relationships with international production teams.
 - **Maintained the website** by updating the home page, products, SEO, and managing orders. Migrated the website from Magento to Shopify which needs less technical knowledge, **saving the company from expensive web development costs**.
 
-### Sales Assistant @ Scribbler (2013 - 2015)
+#### _2013-2015_
+
+### Sales Assistant @ Scribbler
 
 - **Worked as part of a team**, using sales reports to merchandise the store and consistently meet targets.
 - **Communicated with the public**, helping customers navigate the store with an in depth knowledge of the product.
 
-### Care Assistant @ Knoll Care Partnership (2008 - 2012)
+#### _2008-2012_
+
+### Care Assistant @ Knoll Care Partnership
 
 - **Cared for residents** in an elderly residential home, most of which had dementia. **Flexibility in approach** was necessary for each resident’s specific needs.
 - Daily challenges were unpredictable, so **teamwork and communication** were vital. **Inter-team verbal and written communication** was key for an effective handover between day and night shifts, weekday and weekend teams.
