@@ -61,7 +61,7 @@ I'm a language-agnostic software developer recently trained at Makers. My previo
 ### **Inventory Management System**
 
 <!-- For pdf -->
-<!-- <p class="tech">`Python | SQLite | Pytest | Shopify Rest API`</p> -->
+<!-- <p class="tech">`Python | SQLite | Pytest | Shopify REST API`</p> -->
 `Python | SQLite | Pytest | Shopify Rest API`
 
 - **Shopify app** developed for SUKREW Ltd while working as the Product Development Manager.
@@ -75,7 +75,7 @@ I'm a language-agnostic software developer recently trained at Makers. My previo
 ### Product Development Manager @ SUKREW Ltd
 
 - **Managed the complete lifecycle of the product** (underwear): design, development, fittings, orders, shipment, quality control, stock management, product launch and sales analysis.
-- **Improved product quality** and **reduced costs** by transitioning to specialised factories and maintained relationships with international production teams.
+- **Improved product quality**, **reduced costs** and **increased scalability** by transitioning to specialised factories and maintained relationships with international production teams.
 - **Maintained the website** by updating the home page, products, SEO, and managing orders. Migrated the website from Magento to Shopify which needs less technical knowledge, **saving the company from expensive web development costs**.
 
 #### _2013-2015_
@@ -96,7 +96,7 @@ I'm a language-agnostic software developer recently trained at Makers. My previo
 
 ### Big Picture View
 
-I take care to understand how the various moving parts of a company work together to build and release a successful product. As a Product Development Manager at a small business, I wore many hats, working on product design and development, all the way to release and shipping. This gave me valuable insight into how all stages of the product lifecycle are connected and inform each other. For that role, this meant taking into account possible production practices and associated costs while designing product, or merchandising a website informed by knowledge of social media marketing or packaging. During Makers group projects, this skill was useful for splitting tickets effectively while still taking into account how they interact with each other, and never losing sight of the project's larger goal while working on database schema or a React component for example.
+I take care to understand how the various moving parts of a company work together to build and release a successful product. As a Product Development Manager at a small business, I wore many hats, working on product design and development, all the way to release and shipping. This gave me valuable insight into how all stages of the product lifecycle are connected and inform each other. For that role, this meant taking into account possible production practices and associated costs while designing product, or merchandising a website informed by knowledge of social media marketing or packaging and shipping. During Makers group projects, this skill was useful for splitting tickets effectively while still taking into account how they interact with each other, and never losing sight of the project's larger goal while working on database schema or a React component for example.
 
 ### User Focus and Adaptability
 
@@ -108,7 +108,17 @@ I am able to effectively prioritise tasks using limited time and resources. This
 
 ## Education
 
-**Queen Mary, University of London**&nbsp; _BA Film Studies_ (First Class)&nbsp; _MA Film Studies_ (Distinction)
+### Queen Mary, University of London
+- _MA Film Studies_ (Distinction)
+- _BA Film Studies_ (First Class)
+
+### Manchester Grammar School
+- A Levels: _Biology_ (A*), _Maths (A*)_, _Chemistry_ (A)
+- AS Level: _Physics_ (A)
+- 10 A-A* GCSEs
+
+<!-- For pdf -->
+<!-- **Queen Mary, University of London**&nbsp; _BA Film Studies_ (First Class)&nbsp; _MA Film Studies_ (Distinction)\ -->
 
 ## Hobbies
 
