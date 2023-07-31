@@ -1,8 +1,14 @@
 # Evan Thomas
 
-<p class="contacts">`London | evanthomas0292@gmail.com | 07763748316 | github.com/ev-th | linkedin.com/in/ev-th`</p>
+<!-- For pdf -->
+<!-- <p class="contacts">`London | evanthomas0292@gmail.com | 07763748316 | github.com/ev-th | linkedin.com/in/ev-th`</p>
+> I'm a language-agnostic software developer recently trained at Makers. My previous experience as a Product Development Manager in the fashion industry has given me a strong user-focus and understanding of the product lifecycle. I'd love to be part of a diverse team working on software that's a joy to use. -->
 
-> Language-agnostic software developer recently trained at Makers. My previous experience as a Product Development Manager in the fashion industry has given me a strong user-focus and understanding of the product lifecycle. I'd love to be part of a diverse team working on software that's a joy to use.
+London | evanthomas0292@gmail.com | [github.com/ev-th](https://github.com/ev-th) | [linkedin.com/in/ev-th](https://www.linkedin.com/in/ev-th/)
+
+## Profile
+
+I'm a language-agnostic software developer recently trained at Makers. My previous experience as a Product Development Manager in the fashion industry has given me a strong user-focus and understanding of the product lifecycle. I'd love to be part of a diverse team working on software that's a joy to use.
 
 ## Engineering Experience
 
@@ -22,7 +28,10 @@
 
 ### [**Flock**](https://github.com/ev-th/Flock)
 
-<p class="tech">`MongoDB | Express | React Native | NodeJS | Jest | React Testing Library`</p>
+<!-- For pdf -->
+<!-- <p class="tech">`MongoDB | Express | React Native | NodeJS | Jest | React Testing Library`</p> -->
+
+`MongoDB | Express | React Native | NodeJS | Jest | React Testing Library`
 
 - **Mobile app** to help people decide which activities to do together, developed in an agile team of 5 devs.
 - Generates activities based on input location using Google and OpenAI.
@@ -31,7 +40,9 @@
 
 ### [**Acebook**](https://github.com/ev-th/acebook-fire)
 
-<p class="tech">`MongoDB | Express | React | NodeJS | Jest | Cypress`</p>
+<!-- For pdf -->
+<!-- <p class="tech">`MongoDB | Express | React | NodeJS | Jest | Cypress`</p> -->
+`MongoDB | Express | React | NodeJS | Jest | Cypress`
 
 - **Social Media web app** based on Facebook, developed in an agile team of 7 devs.
 - We inherited a simple codebase and learned the necessary technologies to fix bugs and extend functionality.
@@ -39,7 +50,9 @@
 
 ### [**Merge Masters BnB**](https://github.com/CKMurison/makersbnb-ruby-seed)
 
-<p class="tech">`Ruby | PostgreSQL | Sinatra | HTML | CSS | Bcrypt | RSpec`</p>
+<!-- For pdf -->
+<!-- <p class="tech">`Ruby | PostgreSQL | Sinatra | HTML | CSS | Bcrypt | RSpec`</p> -->
+`Ruby | PostgreSQL | Sinatra | HTML | CSS | Bcrypt | RSpec`
 
 - **E-commerce site** based on AirBnB, developed in an agile team of 6 devs.
 - Users can sign up, share room listings, request bookings on other users’ listings by date, and confirm listings.
@@ -47,7 +60,9 @@
 
 ### **Inventory Management System**
 
-<p class="tech">`Python | SQLite | Pytest | Shopify Rest API`</p>
+<!-- For pdf -->
+<!-- <p class="tech">`Python | SQLite | Pytest | Shopify Rest API`</p> -->
+`Python | SQLite | Pytest | Shopify Rest API`
 
 - **Shopify app** developed for SUKREW Ltd while working as the Product Development Manager.
 - Automates much of the wholesale side of the business, integrating it into the websale system.
