@@ -35,7 +35,7 @@ I'm a language-agnostic software developer recently trained at Makers. My previo
 
 - **Mobile app** to help people decide which activities to do together, developed in an agile team of 5 devs.
 - Generates activities based on input location using Google and OpenAI.
-- Asynchronously, users select preferred activities using a swipe feature. Once all users have made selections, they can see their matching activities.
+- Asynchronously, users select preferred activities using a swipe feature. They can then see their matching activities.
 - No user sign up by using linking with Expo and local storage.
 
 ### [**Acebook**](https://github.com/ev-th/acebook-fire)
@@ -76,7 +76,7 @@ I'm a language-agnostic software developer recently trained at Makers. My previo
 
 - **Managed the complete lifecycle of the product** (underwear): design, development, fittings, orders, shipment, quality control, stock management, product launch and sales analysis.
 - **Improved product quality**, **reduced costs** and **increased scalability** by transitioning to specialised factories and maintained relationships with international production teams.
-- **Maintained the website** by updating the home page, products, SEO, and managing orders. Migrated the website from Magento to Shopify which needs less technical knowledge, **saving the company from expensive web development costs**.
+- **Maintained the website** by updating the home page, products, SEO, and managing orders. Migrated the website from Magento to Shopify which needs less technical knowledge, **saving on expensive web development costs**.
 
 #### _2013-2015_
 
