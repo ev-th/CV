@@ -1,20 +1,14 @@
 # Evan Thomas
 
-<!-- For pdf -->
-<!-- <p class="contacts">`London | evanthomas0292@gmail.com | 07763748316 | github.com/ev-th | linkedin.com/in/ev-th`</p>
-> I'm a language-agnostic software developer recently trained at Makers. My previous experience as a Product Development Manager in the fashion industry has given me a strong user-focus and understanding of the product lifecycle. I'd love to be part of a diverse team working on software that's a joy to use. -->
-
-London | evanthomas0292@gmail.com | [github.com/ev-th](https://github.com/ev-th) | [linkedin.com/in/ev-th](https://www.linkedin.com/in/ev-th/)
+London | evanthomas0292@gmail.com | [github.com/ev-th](https://github.com/ev-th) | [linkedin.com/in/ev-th](https://www.linkedin.com/in/ev-th/) | they/them
 
 ## Profile
 
-I'm a language-agnostic software developer recently trained at Makers. My previous experience as a Product Development Manager in the fashion industry has given me a strong user-focus and understanding of the product lifecycle. I'd love to be part of a diverse team working on software that's a joy to use.
+I'm a language-agnostic software developer recently trained at Makers Academy. My previous experience as a Product Development Manager in the fashion industry has given me a strong user-focus and understanding of the product life cycle. I'd love to be part of a diverse team working on software that's a joy to use.
 
 ## Engineering Experience
 
-#### _April-July 2023_
-
-### Makers Academy
+### Makers Academy (March-July 2023)
 
 - Followed **Agile best practices** to build software as part of **teams of 5 - 7 devs**, strengthening skills of **effective communication, strong ticket creation, good use of Git and Github, and thorough testing**.
 - Built **full stack web apps**, both from scratch, and extended from legacy code. 
@@ -28,9 +22,6 @@ I'm a language-agnostic software developer recently trained at Makers. My previo
 
 ### [**Flock**](https://github.com/ev-th/Flock)
 
-<!-- For pdf -->
-<!-- <p class="tech">`MongoDB | Express | React Native | NodeJS | Jest | React Testing Library`</p> -->
-
 `MongoDB | Express | React Native | NodeJS | Jest | React Testing Library`
 
 - **Mobile app** to help people decide which activities to do together, developed in an agile team of 5 devs.
@@ -40,8 +31,6 @@ I'm a language-agnostic software developer recently trained at Makers. My previo
 
 ### [**Acebook**](https://github.com/ev-th/acebook-fire)
 
-<!-- For pdf -->
-<!-- <p class="tech">`MongoDB | Express | React | NodeJS | Jest | Cypress`</p> -->
 `MongoDB | Express | React | NodeJS | Jest | Cypress`
 
 - **Social Media web app** based on Facebook, developed in an agile team of 7 devs.
@@ -50,8 +39,6 @@ I'm a language-agnostic software developer recently trained at Makers. My previo
 
 ### [**Merge Masters BnB**](https://github.com/CKMurison/makersbnb-ruby-seed)
 
-<!-- For pdf -->
-<!-- <p class="tech">`Ruby | PostgreSQL | Sinatra | HTML | CSS | Bcrypt | RSpec`</p> -->
 `Ruby | PostgreSQL | Sinatra | HTML | CSS | Bcrypt | RSpec`
 
 - **E-commerce site** based on AirBnB, developed in an agile team of 6 devs.
@@ -60,37 +47,29 @@ I'm a language-agnostic software developer recently trained at Makers. My previo
 
 ### **Inventory Management System**
 
-<!-- For pdf -->
-<!-- <p class="tech">`Python | SQLite | Pytest | Shopify REST API`</p> -->
 `Python | SQLite | Pytest | Shopify Rest API`
 
-- **Shopify app** developed for SUKREW Ltd while working as the Product Development Manager.
+- **Shopify app** developed for Sukrew while working as the Product Development Manager.
 - Automates much of the wholesale side of the business, integrating it into the websale system.
 - Significantly reduces manual data entry and provides valuable sales reporting across sales channels.
 
 ## Professional Experience
 
-#### _2016-2022_
-
-### Product Development Manager @ SUKREW Ltd
+### Product Development Manager @ Sukrew (2016-2022)
 
 - **Managed the complete lifecycle of the product** (underwear): design, development, fittings, orders, shipment, quality control, stock management, product launch and sales analysis.
 - **Improved product quality**, **reduced costs** and **increased scalability** by transitioning to specialised factories and maintained relationships with international production teams.
 - **Maintained the website** by updating the home page, products, SEO, and managing orders. Migrated the website from Magento to Shopify which needs less technical knowledge, **saving on expensive web development costs**.
 
-#### _2013-2015_
-
-### Sales Assistant @ Scribbler
+### Sales Assistant @ Scribbler (2013-2015)
 
 - Worked as part of a team, using sales reports to merchandise the store and consistently meet targets.
-- Communicated with the public, helping customers navigate the store with an in depth knowledge of the product.
+- Communicated with the public, helping customers navigate the store with an in-depth knowledge of the product.
 
-#### _2008-2012_
+### Care Assistant @ Knoll Care Partnership (2008-2012)
 
-### Care Assistant @ Knoll Care Partnership
-
-- Cared for residents in an elderly residential home, all with very different needs.
-- Daily challenges were unpredictable. Adaptability, teamwork, and communication were vital.
+- Used empathy and communication when caring for residents in an elderly residential home who all had very different needs.
+- Adapted to daily challenges which were unpredictable whilst working within a team.
 
 ## Skills
 
@@ -104,21 +83,18 @@ In all my professional roles, I have been in close proximity to the end user, of
 
 ### Prioritising
 
-I am able to effectively prioritise tasks using limited time and resources. This often means finding ways to make mine and my colleagues future work easier and faster. At a fashion retail company, I identified important changes that could save time and money, such as moving to a more user-friendly e-commerce platform, and working with more specialised manufacturers. Prioritising these when faced with many other day-to-day urgent tasks was difficult to sell to the director, but the business became profitable, and is now scaling much more easily because of these changes. This skill translated well into our final project at Makers when planning our MVP, which we achieved in less than 2 days.
+I am able to effectively prioritise tasks using limited time and resources. At a fashion retail company, I identified changes that could save time and money, such as moving to a more user-friendly e-commerce platform, and working with more specialised manufacturers. Prioritising these when faced with many other day-to-day urgent tasks was difficult to sell to the director, but the business became profitable, and is now scaling much more easily because of these changes. This skill translated well into our final project at Makers, when tasked with completing our MVP by the end of day two. Despite coming up with a much more complex product during ideation, I found ways to strip away as many features as possible while leaving the core idea intact. This meant we had a working MVP to try out well within our deadline, and a great foundation from which to begin adding features.
 
 ## Education
 
 ### Queen Mary, University of London
-- _MA Film Studies_ (Distinction)
-- _BA Film Studies_ (First Class)
+- _MA Film Studies_ (**Distinction**)
+- _BA Film Studies_ (**First Class**)
 
 ### Manchester Grammar School
-- A Levels: _Biology_ (A*), _Maths (A*)_, _Chemistry_ (A)
-- AS Level: _Physics_ (A)
-- 10 A-A* GCSEs
-
-<!-- For pdf -->
-<!-- **Queen Mary, University of London**&nbsp; _BA Film Studies_ (First Class)&nbsp; _MA Film Studies_ (Distinction)\ -->
+- A Levels: _Biology_ (**A\***), _Maths_ (**A\***), _Chemistry_ (**A**)
+- AS Level: _Physics_ (**A**)
+- 10 **A-A\*** GCSEs
 
 ## Hobbies
 
