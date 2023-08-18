@@ -22,7 +22,7 @@ I'm a language-agnostic software developer recently trained at Makers Academy. M
 
 ### [**Flock**](https://github.com/ev-th/Flock)
 
-`MongoDB | Express | React Native | NodeJS | Jest | React Testing Library`
+`Javascript | MongoDB | Express | React Native | NodeJS | Jest | React Testing Library`
 
 - **Mobile app** to help people decide which activities to do together, developed in an agile team of 5 devs.
 - Generates activities based on input location using Google and OpenAI.
@@ -31,7 +31,7 @@ I'm a language-agnostic software developer recently trained at Makers Academy. M
 
 ### [**Acebook**](https://github.com/ev-th/acebook-fire)
 
-`MongoDB | Express | React | NodeJS | Jest | Cypress`
+`Javascript | MongoDB | Express | React | NodeJS | Jest | Cypress`
 
 - **Social Media web app** based on Facebook, developed in an agile team of 7 devs.
 - We inherited a simple codebase and learned the necessary technologies to fix bugs and extend functionality.
