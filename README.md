@@ -60,6 +60,7 @@ I'm a language-agnostic software developer recently trained at Makers Academy. M
 - **Managed the complete lifecycle of the product** (underwear): design, development, fittings, orders, shipment, quality control, stock management, product launch and sales analysis.
 - **Improved product quality**, **reduced costs** and **increased scalability** by transitioning to specialised factories and maintained relationships with international production teams.
 - **Maintained the website** by updating the home page, products, SEO, and managing orders. Migrated the website from Magento to Shopify which needs less technical knowledge, **saving on expensive web development costs**.
+- **Worked with various stakeholders**, adjusting communication style based on their technical knowledge, listening to them to understand their priorities, and managing their expectations when necessary.
 
 ### Sales Assistant @ Scribbler (2013-2015)
 
